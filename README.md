@@ -19,6 +19,7 @@ Desarrollador Java Junior con foco en backend, actualmente profundizando en el e
 - **Inyección de dependencias** (IoC, `@Autowired`, `@Qualifier`, `@Value`)
 - Construcción de **APIs REST** (`@RestController`, `@PathVariable`, `@RequestBody`)
 - **Patrones de diseño**: MVC
+- **POO avanzada**: herencia, polimorfismo, encapsulamiento
 - **Algoritmos**: Backtracking, recursividad
 - **Interfaces gráficas** con Java Swing
 - Control de versiones con **Git / GitHub**
@@ -30,16 +31,17 @@ Desarrollador Java Junior con foco en backend, actualmente profundizando en el e
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Spring Boot - Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Sistema de facturación con gestión de beans, ciclo de vida y serialización JSON | Java, Spring Boot, Jackson |
-| [Spring Boot - Dependency Injection](https://github.com/Lautarovh27/Springboot-DI) | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST | Java, Spring Boot, Maven |
+| [Springboot-DI](https://github.com/Lautarovh27/Springboot-DI) | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST | Java, Spring Boot, Maven |
+| [Spring Boot Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Sistema de facturación con gestión de beans, ciclo de vida y serialización JSON | Java, Spring Boot, Jackson |
+| [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system) | Sistema de venta de entradas aplicando herencia, polimorfismo y estructuras de datos | Java, POO |
 | [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java) | Aplicación de escritorio que resuelve Sudokus con algoritmo de Backtracking recursivo | Java, Swing |
-| [CalculatorMVC](https://github.com/Lautarovh27/CalculadoraMVC) | Calculadora de escritorio implementando el patrón arquitectónico MVC | Java, Swing |
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
 - Spring Boot (MVC, REST, DI, JPA)
+- Arquitectura de aplicaciones backend
 
 ---
 
