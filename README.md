@@ -31,10 +31,10 @@ Desarrollador Java Junior con foco en backend, actualmente profundizando en el e
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Springboot-DI](https://github.com/Lautarovh27/Springboot-DI) | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST | Java, Spring Boot, Maven |
-| [Spring Boot Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Sistema de facturación con gestión de beans, ciclo de vida y serialización JSON | Java, Spring Boot, Jackson |
+| [Spring Boot - Dependency Injection](https://github.com/Lautarovh27/Springboot-DI) | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST | Java, Spring Boot, Maven |
+| [Spring Boot - Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Sistema de facturación con gestión de beans, ciclo de vida y serialización JSON | Java, Spring Boot, Jackson |
 | [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java) | Aplicación de escritorio que resuelve Sudokus con algoritmo de Backtracking recursivo | Java, Swing |
-| [CalculadoraMVC](https://github.com/Lautarovh27/CalculadoraMVC) | Calculadora de escritorio implementando el patrón arquitectónico MVC | Java, Swing |
+| [CalculatorMVC](https://github.com/Lautarovh27/CalculadoraMVC) | Calculadora de escritorio implementando el patrón arquitectónico MVC | Java, Swing |
 
 ---
 
