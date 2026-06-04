@@ -40,8 +40,6 @@ Desarrollador Java Junior con foco en backend, actualmente profundizando en el e
 ## 📚 Actualmente aprendiendo
 
 - Spring Boot (MVC, REST, DI, JPA)
-- Arquitectura de aplicaciones backend
-- Buenas prácticas y patrones de diseño en Java
 
 ---
 
