@@ -1,6 +1,6 @@
 # Hola, soy Lautaro 👋
 
-Desarrollador Java Junior con foco en backend, actualmente profundizando en el ecosistema Spring Boot. Busco mi primera oportunidad profesional donde pueda aportar valor y seguir creciendo.
+Desarrollador Java Junior con foco en backend, actualmente profundizando en el ecosistema Spring Boot.
 
 ---
 
