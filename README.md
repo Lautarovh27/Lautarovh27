@@ -1,6 +1,6 @@
 # Hola, soy Lautaro 👋
 
-Desarrollador Java con foco en backend, actualmente profundizando en el ecosistema Spring Boot.
+Desarrollador Java orientado al backend, actualmente profundizando en Spring Boot, APIs REST y arquitectura de aplicaciones.
 
 ---
 
@@ -31,6 +31,7 @@ Desarrollador Java con foco en backend, actualmente profundizando en el ecosiste
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [Spring Boot Error Handling](https://github.com/Lautarovh27/springboot-error) | API REST para practicar manejo de excepciones personalizadas, @ControllerAdvice y respuestas HTTP de error | Java, Spring Boot, REST API |
 | [Springboot-DI](https://github.com/Lautarovh27/Springboot-DI) | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST | Java, Spring Boot, Maven |
 | [Spring Boot Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Sistema de facturación con gestión de beans, ciclo de vida y serialización JSON | Java, Spring Boot, Jackson |
 | [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system) | Sistema de venta de entradas aplicando herencia, polimorfismo y estructuras de datos | Java, POO |
