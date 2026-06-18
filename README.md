@@ -37,7 +37,7 @@ Desarrollador Java orientado al backend, actualmente profundizando en Spring Boo
 | [Spring Boot Error Handling](https://github.com/Lautarovh27/springboot-error)                 | API REST para practicar manejo de excepciones personalizadas, `@ControllerAdvice` y respuestas HTTP de error                     | Java, Spring Boot, REST API   |
 | [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system)               | Sistema de venta de entradas aplicando herencia, polimorfismo y estructuras de datos                                             | Java, POO                     |
 | [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java)                            | Aplicación de escritorio que resuelve Sudokus mediante Backtracking recursivo                                                    | Java, Swing                   |
-
+| [Spring Boot Schedule App](https://github.com/Lautarovh27/springboot-horario)                 | Aplicación para practicar interceptores HTTP y manejo de fechas y horarios utilizando Java Time API                              | Java, Spring Boot, Spring MVC |
 
 ---
 
