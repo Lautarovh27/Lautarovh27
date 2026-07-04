@@ -15,15 +15,27 @@ Desarrollador Java orientado al backend, actualmente profundizando en Spring Boo
 
 ## 💡 Habilidades
 
-- Desarrollo backend con **Java** y **Spring Boot**
-- **Inyección de dependencias** (IoC, `@Autowired`, `@Qualifier`, `@Value`)
-- Construcción de **APIs REST** (`@RestController`, `@PathVariable`, `@RequestBody`)
-- **Patrones de diseño**: MVC
-- **POO avanzada**: herencia, polimorfismo, encapsulamiento
-- **Algoritmos**: Backtracking, recursividad
-- **Interfaces gráficas** con Java Swing
-- Control de versiones con **Git / GitHub**
-- Gestión de proyectos con **Maven**
+## 💡 Habilidades
+
+* Desarrollo backend con **Java** y **Spring Boot**
+* Desarrollo de **APIs REST**
+* Arquitectura **MVC**
+* **Inyección de dependencias** (IoC, `@Autowired`, `@Qualifier`, `@Value`)
+* Programación Orientada a Aspectos (**AOP**) con Spring AOP y AspectJ
+* Interceptores HTTP y procesamiento de requests
+* Manejo global de excepciones (`@ControllerAdvice`, `@ExceptionHandler`)
+* Gestión del ciclo de vida de Beans (`@PostConstruct`, `@PreDestroy`)
+* Manejo de fechas y horarios con Java Time API
+* Logging y monitoreo con SLF4J
+* Consumo y serialización JSON con Jackson
+* Programación Orientada a Objetos (**POO**)
+* Herencia, polimorfismo y encapsulamiento
+* Algoritmos y estructuras de datos
+* Backtracking y recursividad
+* Interfaces gráficas con Java Swing
+* Gestión de dependencias con Maven
+* Control de versiones con Git y GitHub
+
 
 ---
 
