@@ -31,6 +31,7 @@ Desarrollador Java orientado al backend, actualmente profundizando en Spring Boo
 
 | Proyecto                                                                                      | Descripción                                                                                                                      | Tecnologías                   |
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [Spring Boot AOP](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming) | Proyecto para practicar programación orientada a aspectos, interceptación de métodos y logging con Spring AOP | Java, Spring Boot, AspectJ |
 | [Spring Boot Schedule App](https://github.com/Lautarovh27/springboot-horario) | Aplicación para practicar interceptores HTTP y manejo de fechas y horarios utilizando Java Time API | Java, Spring Boot, Spring MVC |
 | [Spring Boot HTTP Interceptors](https://github.com/Lautarovh27/spring-boot-Http-interceptors) | Implementación de interceptores HTTP utilizando `HandlerInterceptor`, procesamiento de peticiones y configuración con Spring MVC | Java, Spring Boot, Spring MVC |
 | [Springboot-DI](https://github.com/Lautarovh27/Springboot-DI)                                 | API REST con inyección de dependencias, configuración avanzada de propiedades y endpoints REST                                   | Java, Spring Boot, Maven      |
@@ -38,7 +39,6 @@ Desarrollador Java orientado al backend, actualmente profundizando en Spring Boo
 | [Spring Boot Error Handling](https://github.com/Lautarovh27/springboot-error)                 | API REST para practicar manejo de excepciones personalizadas, `@ControllerAdvice` y respuestas HTTP de error                     | Java, Spring Boot, REST API   |
 | [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system)               | Sistema de venta de entradas aplicando herencia, polimorfismo y estructuras de datos                                             | Java, POO                     |
 | [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java)                            | Aplicación de escritorio que resuelve Sudokus mediante Backtracking recursivo                                                    | Java, Swing                   |
-| [Spring Boot AOP](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming) | Proyecto para practicar programación orientada a aspectos, interceptación de métodos y logging con Spring AOP | Java, Spring Boot, AspectJ |
 
 
 ---
