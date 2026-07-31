@@ -19,8 +19,8 @@ Desarrollador Backend con experiencia en Java y JavaScript. Actualmente profundi
 
 ## 💡 Habilidades
 
-- Desarrollo Backend con **Java** y **Spring Boot**
 - Desarrollo Backend con **Node.js** y **Express**
+- Desarrollo Backend con **Java** y **Spring Boot**
 - Diseño de **APIs REST**
 - Inyección de Dependencias (IoC)
 - Spring MVC
