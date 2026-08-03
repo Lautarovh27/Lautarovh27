@@ -67,4 +67,4 @@ Desarrollador Backend con experiencia en Java y JavaScript. Actualmente profundi
 
 ---
 
-*Abierto a oportunidades como Java Backend Developer, Node.js Developer o Full Stack Developer Junior.*
+*Abierto a oportunidades como Java Backend Developer, Node.js Developer o Full Stack Developer.*
