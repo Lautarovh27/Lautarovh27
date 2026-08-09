@@ -54,8 +54,6 @@ Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquit
 | [SMS Campaign Manager](...) | Aplicación Full Stack desplegada en la nube para gestionar campañas de SMS, autenticación con JWT, dashboard, estadísticas, CRUD de campañas y contactos, utilizando React, Express y MySQL. | React, Node.js, Express, Sequelize, MySQL |
 | [Spring Boot JPA](https://github.com/Lautarovh27/springboot-jpa) | Persistencia de datos utilizando Spring Data JPA, Hibernate y MySQL. | Java, Spring Boot, JPA |
 | [Spring Boot AOP](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming) | Implementación de Aspect-Oriented Programming con AspectJ para logging y separación de responsabilidades. | Java, Spring Boot |
-| [Spring Boot Invoice System](https://github.com/Lautarovh27/spring-boot-invoice-system) | Gestión de facturas utilizando Inyección de Dependencias, Beans y APIs REST. | Java, Spring Boot |
-| [Spring Boot HTTP Interceptors](https://github.com/Lautarovh27/spring-boot-Http-interceptors) | Implementación de interceptores HTTP para controlar el ciclo de vida de las peticiones. | Java, Spring Boot |
 | [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system) | Sistema de venta de entradas aplicando POO, herencia y estructuras de datos. | Java |
 | [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java) | Aplicación de escritorio para resolver Sudokus mediante Backtracking. | Java, Swing |
 
@@ -82,7 +80,7 @@ Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquit
 
 ⚛️ React
 
-🗄️ MySQL
+🗄️ MySQL • MongoDB
 
 ☁️ Render • Vercel
 
