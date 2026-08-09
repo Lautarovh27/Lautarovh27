@@ -33,6 +33,7 @@ Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquit
 - Arquitectura Controller / Service / Model
 - ORM con Hibernate y Sequelize
 - Bases de datos MySQL
+- Bases de datos MongoDB 
 - Relaciones One-to-Many y Many-to-Many
 - Spring Data JPA
 - Spring MVC
@@ -48,6 +49,8 @@ Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquit
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [Proyecto Oficina — Frontend](https://github.com/Lautarovh27/proyectooficina-frontend) | E-commerce de muebles de oficina: catálogo con rutas dinámicas, carrito con Context API, checkout y confirmación por WhatsApp. | React, TypeScript, React Router, Vite |
+| [Proyecto Oficina — Backend](https://github.com/Lautarovh27/proyectooficina-backend) | API REST con transacciones de MongoDB para validar stock de forma consistente al crear un pedido. | Node.js, Express, TypeScript, MongoDB, Mongoose |
 | [SMS Campaign Manager](...) | Aplicación Full Stack desplegada en la nube para gestionar campañas de SMS, autenticación con JWT, dashboard, estadísticas, CRUD de campañas y contactos, utilizando React, Express y MySQL. | React, Node.js, Express, Sequelize, MySQL |
 | [Spring Boot JPA](https://github.com/Lautarovh27/springboot-jpa) | Persistencia de datos utilizando Spring Data JPA, Hibernate y MySQL. | Java, Spring Boot, JPA |
 | [Spring Boot AOP](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming) | Implementación de Aspect-Oriented Programming con AspectJ para logging y separación de responsabilidades. | Java, Spring Boot |
