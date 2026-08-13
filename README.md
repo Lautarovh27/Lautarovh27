@@ -4,44 +4,78 @@ Backend Developer especializado en Java y Node.js, con experiencia desarrollando
 
 Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquitectura de software mientras construyo proyectos orientados a resolver problemas reales.
 
----
-
 ## 🛠️ Tecnologías y herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Bases de datos
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 💡 Habilidades
 
-- Desarrollo Backend con Java y Spring Boot
-- Desarrollo Backend con Node.js y Express
-- Desarrollo Frontend con React y Vite
-- Diseño de APIs REST
-- Autenticación mediante JWT
-- Arquitectura MVC
+### Backend
+
+- Desarrollo de **APIs REST** con Java + Spring Boot
+- Desarrollo de **APIs REST** con Node.js + Express
+- TypeScript
 - Arquitectura Controller / Service / Model
-- ORM con Hibernate y Sequelize
-- Bases de datos MySQL
-- Bases de datos MongoDB 
-- Relaciones One-to-Many y Many-to-Many
-- Spring Data JPA
-- Spring MVC
+- Arquitectura MVC
+- Inyección de Dependencias (IoC)
+- Spring Data JPA y Hibernate
 - Spring AOP
-- Manejo global de excepciones
 - Interceptores HTTP
-- Deploy con Render y Vercel
-- Git y GitHub
+- Manejo global de excepciones
+- Autenticación mediante JWT
+- ORM con Hibernate y Sequelize
+- Transacciones en MongoDB
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+- React Router
+- Context API
+- Desarrollo de interfaces y flujos de checkout
+
+### Bases de datos
+
+- MySQL
+- MongoDB
+- JPA / Hibernate
+- Sequelize
+- Mongoose
+- Relaciones entre entidades
+- Consultas personalizadas
+
+### Herramientas
+
+- Maven
+- Git / GitHub
+- Postman
+- Vercel
+- Render
 
 ---
 
