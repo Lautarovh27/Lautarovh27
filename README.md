@@ -1,132 +1,222 @@
 # Hola, soy Lautaro 👋
 
-Backend Developer especializado en Java y Node.js, con experiencia desarrollando APIs REST, aplicaciones Full Stack y bases de datos relacionales.
+Desarrollador Backend con foco en **Java y Spring Boot**, estudiante de la Tecnicatura Universitaria en Informática en la UNGS.
 
-Actualmente continúo ampliando mis conocimientos en Spring Boot, React y arquitectura de software mientras construyo proyectos orientados a resolver problemas reales.
+Actualmente profundizando en el desarrollo de APIs REST, persistencia de datos y arquitectura de aplicaciones backend mediante proyectos prácticos.
+
+---
 
 ## 🛠️ Tecnologías y herramientas
 
-### Backend
+### Java Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Bases de datos
-
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 💡 Habilidades
+## 💡 Habilidades técnicas
 
-### Backend
-
-- Desarrollo de **APIs REST** con Java + Spring Boot
-- Desarrollo de **APIs REST** con Node.js + Express
-- TypeScript
-- Arquitectura Controller / Service / Model
-- Arquitectura MVC
-- Inyección de Dependencias (IoC)
-- Spring Data JPA y Hibernate
-- Spring AOP
-- Interceptores HTTP
-- Manejo global de excepciones
-- Autenticación mediante JWT
-- ORM con Hibernate y Sequelize
-- Transacciones en MongoDB
-
-### Frontend
-
-- React
-- TypeScript
-- Vite
-- React Router
-- Context API
-- Desarrollo de interfaces y flujos de checkout
-
-### Bases de datos
-
-- MySQL
-- MongoDB
-- JPA / Hibernate
-- Sequelize
-- Mongoose
-- Relaciones entre entidades
-- Consultas personalizadas
-
-### Herramientas
-
-- Maven
-- Git / GitHub
-- Postman
-- Vercel
-- Render
+- **Java y POO:** encapsulamiento, herencia, polimorfismo e interfaces.
+- **Spring Boot:** configuración de aplicaciones, componentes y desarrollo backend.
+- **Inyección de dependencias (IoC):** `@Autowired`, `@Qualifier` y `@Value`.
+- **APIs REST:** controladores, endpoints y manejo de peticiones HTTP.
+- **Spring Data JPA y Hibernate:** entidades, repositorios, operaciones CRUD y persistencia.
+- **JPQL:** consultas personalizadas, proyecciones y funciones como `CONCAT`, `UPPER`, `LOWER` y `DISTINCT`.
+- **Spring AOP:** aspectos, interceptación de métodos y logging.
+- **Interceptores HTTP:** procesamiento de peticiones mediante `HandlerInterceptor`.
+- **Manejo de errores:** excepciones y respuestas de error.
+- **MySQL:** modelado de datos, consultas SQL y configuración de conexiones.
+- **Patrones y arquitectura:** MVC, separación de responsabilidades y Backtracking.
+- **Testing:** pruebas unitarias con JUnit.
+- **Control de versiones:** Git y GitHub.
 
 ---
 
 ## 📌 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Proyecto Oficina — Frontend](https://github.com/Lautarovh27/proyectooficina-frontend) | E-commerce de muebles de oficina: catálogo con rutas dinámicas, carrito con Context API, checkout y confirmación por WhatsApp. | React, TypeScript, React Router, Vite |
-| [Proyecto Oficina — Backend](https://github.com/Lautarovh27/proyectooficina-backend) | API REST con transacciones de MongoDB para validar stock de forma consistente al crear un pedido. | Node.js, Express, TypeScript, MongoDB, Mongoose |
-| [SMS Campaign Manager](...) | Aplicación Full Stack desplegada en la nube para gestionar campañas de SMS, autenticación con JWT, dashboard, estadísticas, CRUD de campañas y contactos, utilizando React, Express y MySQL. | React, Node.js, Express, Sequelize, MySQL |
-| [Spring Boot JPA](https://github.com/Lautarovh27/springboot-jpa) | Persistencia de datos utilizando Spring Data JPA, Hibernate y MySQL. | Java, Spring Boot, JPA |
-| [Spring Boot AOP](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming) | Implementación de Aspect-Oriented Programming con AspectJ para logging y separación de responsabilidades. | Java, Spring Boot |
-| [Event Ticketing System](https://github.com/Lautarovh27/Event-ticketing-system) | Sistema de venta de entradas aplicando POO, herencia y estructuras de datos. | Java |
-| [Sudoku Solver](https://github.com/Lautarovh27/sudoku-solver-java) | Aplicación de escritorio para resolver Sudokus mediante Backtracking. | Java, Swing |
+### ☕ Spring Boot JPA & Hibernate
+
+Práctica de persistencia de datos y consultas con Spring Data JPA, Hibernate y MySQL.
+
+- Mapeo de entidades con JPA.
+- Repositorios y operaciones CRUD.
+- Consultas personalizadas mediante JPQL.
+- Derived Queries y proyecciones de datos.
+- Consultas con funciones de agregación y manipulación de cadenas.
+
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven.
+
+[Ver repositorio](https://github.com/Lautarovh27/spring-boot-jpa-hibernate)
+
+### 🔌 Spring Boot Dependency Injection
+
+Aplicación de los principios de inversión de control e inyección de dependencias de Spring.
+
+- Gestión de componentes y beans.
+- Uso de `@Autowired`, `@Qualifier` y `@Value`.
+- Configuración de dependencias y propiedades.
+- Ciclo de vida de los componentes.
+
+**Tecnologías:** Java, Spring Boot, Maven.
+
+[Ver repositorio](https://github.com/Lautarovh27/Springboot-DI)
+
+### 🎯 Spring Boot AOP
+
+Implementación de Programación Orientada a Aspectos para separar tareas transversales de la lógica de negocio.
+
+- Definición de aspectos y pointcuts.
+- Interceptación de métodos.
+- Logging con SLF4J.
+- Uso de `@Aspect`, `@Before` y `JoinPoint`.
+
+**Tecnologías:** Java, Spring Boot, Spring AOP, AspectJ.
+
+[Ver repositorio](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming)
+
+### 🌐 Spring Boot HTTP Interceptors
+
+Implementación de interceptores para procesar peticiones HTTP durante su ciclo de ejecución.
+
+- Uso de `HandlerInterceptor`.
+- Procesamiento previo y posterior a las peticiones.
+- Separación de responsabilidades en la capa web.
+
+**Tecnologías:** Java, Spring Boot, Spring MVC.
+
+[Ver repositorio](https://github.com/Lautarovh27/spring-boot-Http-interceptors)
+
+### ⏱️ Spring Boot Time Interceptor
+
+Proyecto enfocado en interceptores HTTP y medición del tiempo de procesamiento de peticiones.
+
+**Tecnologías:** Java, Spring Boot, Spring MVC.
+
+[Ver repositorio](https://github.com/Lautarovh27/spring-boot-time-interceptor)
+
+### 🧾 Spring Boot Invoice System
+
+Sistema de facturación utilizado para practicar la configuración y gestión de componentes de Spring.
+
+- Inyección de dependencias.
+- Selección de beans mediante qualifiers.
+- Configuración de propiedades.
+- Ciclo de vida de componentes.
+
+**Tecnologías:** Java, Spring Boot, Maven.
+
+[Ver repositorio](https://github.com/Lautarovh27/spring-boot-invoice-system)
+
+### ⚠️ Spring Boot Error Handling
+
+Proyecto orientado a la gestión de errores y excepciones en aplicaciones Spring Boot.
+
+**Tecnologías:** Java, Spring Boot.
+
+[Ver repositorio](https://github.com/Lautarovh27/springboot-error)
+
+### 📅 Spring Boot Horario
+
+Aplicación desarrollada para practicar el manejo de peticiones HTTP y la organización de componentes en Spring Boot.
+
+**Tecnologías:** Java, Spring Boot, Maven.
+
+[Ver repositorio](https://github.com/Lautarovh27/springboot-horario)
+
+### 🎟️ Event Ticketing System
+
+Sistema de venta y gestión de entradas desarrollado como proyecto académico.
+
+- Programación Orientada a Objetos.
+- Herencia y polimorfismo.
+- Estructuras de datos y lógica de negocio.
+
+**Tecnologías:** Java, POO.
+
+[Ver repositorio](https://github.com/Lautarovh27/Event-ticketing-system)
+
+### 🧩 Sudoku Solver
+
+Aplicación gráfica que resuelve Sudokus mediante algoritmos recursivos.
+
+- Algoritmo de Backtracking.
+- Validación de filas, columnas y cuadrículas.
+- Interfaz gráfica con Java Swing.
+
+**Tecnologías:** Java, Swing.
+
+[Ver repositorio](https://github.com/Lautarovh27/sudoku-solver-java)
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Actualmente profundizando en
 
-- Desarrollando proyectos Full Stack.
-- Profundizando en Spring Security.
-- Mejorando buenas prácticas de arquitectura.
-- Arquitectura Backend.
+- Spring Boot y desarrollo de APIs REST.
+- Spring Data JPA y Hibernate.
+- Consultas JPQL y persistencia de datos.
+- Arquitectura backend y buenas prácticas.
+- Testing y calidad de código.
+- Spring Security.
 
 ---
 
 ## 🚀 Sobre mí
 
-💻 Backend Developer
+- 💻 Enfoque profesional: Java Backend Developer.
+- 🎓 Tecnicatura Universitaria en Informática — UNGS.
+- ☕ Java y Spring Boot.
+- 🗄️ MySQL, JPA e Hibernate.
+- 🧪 JUnit y pruebas unitarias.
+- 🔧 Git, GitHub, Maven y Postman.
+- 🌎 Argentina.
 
-📚 Tecnicatura Universitaria en Sistemas (66% completada)
+---
 
-☕ Java • Spring Boot
+## 🌐 Otros proyectos Full Stack
 
-🟢 Node.js • Express
+También desarrollo proyectos con TypeScript, Node.js y React, aplicando los conceptos de APIs REST, persistencia y separación entre frontend y backend.
 
-⚛️ React
+### 🛋️ Proyecto Oficina — E-commerce
 
-🗄️ MySQL • MongoDB
+Aplicación de comercio electrónico de muebles de oficina.
 
-☁️ Render • Vercel
+- **Backend:** API REST con Node.js, Express, TypeScript, MongoDB y Mongoose.
+- **Frontend:** React, TypeScript, Vite, React Router y Context API.
+- Validación de stock y creación de pedidos con transacciones de MongoDB.
+- Carrito, checkout y confirmación de pedidos mediante WhatsApp.
 
-🌎 Argentina
+[Backend](https://github.com/Lautarovh27/proyectooficina-backend) · [Frontend](https://github.com/Lautarovh27/proyectooficina-frontend)
+
+### 📱 SMS Campaign Manager
+
+Aplicación Full Stack para administrar campañas SMS, contactos y estadísticas.
+
+- Gestión de campañas y contactos.
+- Autenticación mediante JWT.
+- Dashboard y estadísticas.
+- Persistencia con MySQL y Sequelize.
+
+**Tecnologías:** JavaScript, React, Node.js, Express, Sequelize y MySQL.
+
+[Ver repositorio](https://github.com/Lautarovh27/sms-campaign-manager)
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-van-hoorenbeeck/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautarovanh@gmail.com)
 
 ---
 
-*Abierto a oportunidades como Java Backend Developer, Node.js Developer o Full Stack Developer.*
+*Abierto a oportunidades como Java Backend Developer Trainee / Junior.*
