@@ -68,8 +68,6 @@ Aplicación de los principios de inversión de control e inyección de dependenc
 
 **Tecnologías:** Java, Spring Boot, Maven.
 
-[Ver repositorio](https://github.com/Lautarovh27/Springboot-DI)
-
 ### 🎯 Spring Boot AOP
 
 Implementación de Programación Orientada a Aspectos para separar tareas transversales de la lógica de negocio.
@@ -81,8 +79,6 @@ Implementación de Programación Orientada a Aspectos para separar tareas transv
 
 **Tecnologías:** Java, Spring Boot, Spring AOP, AspectJ.
 
-[Ver repositorio](https://github.com/Lautarovh27/spring-boot-aspect-oriented-programming)
-
 ### 🌐 Spring Boot HTTP Interceptors
 
 Implementación de interceptores para procesar peticiones HTTP durante su ciclo de ejecución.
@@ -93,15 +89,11 @@ Implementación de interceptores para procesar peticiones HTTP durante su ciclo 
 
 **Tecnologías:** Java, Spring Boot, Spring MVC.
 
-[Ver repositorio](https://github.com/Lautarovh27/spring-boot-Http-interceptors)
-
 ### ⏱️ Spring Boot Time Interceptor
 
 Proyecto enfocado en interceptores HTTP y medición del tiempo de procesamiento de peticiones.
 
 **Tecnologías:** Java, Spring Boot, Spring MVC.
-
-[Ver repositorio](https://github.com/Lautarovh27/spring-boot-time-interceptor)
 
 ### 🧾 Spring Boot Invoice System
 
@@ -114,23 +106,17 @@ Sistema de facturación utilizado para practicar la configuración y gestión de
 
 **Tecnologías:** Java, Spring Boot, Maven.
 
-[Ver repositorio](https://github.com/Lautarovh27/spring-boot-invoice-system)
-
 ### ⚠️ Spring Boot Error Handling
 
 Proyecto orientado a la gestión de errores y excepciones en aplicaciones Spring Boot.
 
 **Tecnologías:** Java, Spring Boot.
 
-[Ver repositorio](https://github.com/Lautarovh27/springboot-error)
-
 ### 📅 Spring Boot Horario
 
 Aplicación desarrollada para practicar el manejo de peticiones HTTP y la organización de componentes en Spring Boot.
 
 **Tecnologías:** Java, Spring Boot, Maven.
-
-[Ver repositorio](https://github.com/Lautarovh27/springboot-horario)
 
 ### 🎟️ Event Ticketing System
 
